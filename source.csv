@@ -1,0 +1,5 @@
+# drift, volatility, SDE method, finite difference scheme, random range min, random range max, random sampling method
+0.005, 0.01, GME, EULER, -0.3, 0.3, NORMAL
+# asset price, days until maturity, option type
+30.31, 30, PLAIN_CALL
+23.44, 65, ASIAN_CALL
