@@ -11,6 +11,7 @@ Stochastic differential equations are done using geometric brownian motion and t
 The modules were written to be easy to implement Constant Elasticity of Variance and Milstein later on as well as new data input formats
 
 The project make heavy use of templates, C++ 11 tuples and function types in the interfaces
+
 All files were kept header-only for convenience
 
 A more complete pricer is on the way, this one is just a baby
